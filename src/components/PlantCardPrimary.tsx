@@ -2,7 +2,6 @@ import React from 'react';
 import {
   StyleSheet,
   Text,
-  Image,
   View
 } from 'react-native';
 import { RectButton, RectButtonProps } from 'react-native-gesture-handler';
